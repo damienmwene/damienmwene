@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damienmwene
 - 👀 I’m interested in Music
-- 🌱 I’m currently learning DevOps
+- 🌱 Currently i'm a DevOps Engineer
 - 💞️ I’m looking to collaborate on the Tech world
 - 📫 you can reach me through mwenedamian@gmail.com
 
